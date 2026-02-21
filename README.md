@@ -36,10 +36,6 @@ Read more about [SnappyMail](https://snappymail.eu) here. This script is not ass
 ## 🚀 Instalation
 
 ```bash
-wget https://snappymail-installer.nlimeres.com && chmod +x install.sh && sudo ./install.sh
-```
-or
-```bash
 wget https://raw.githubusercontent.com/nlimeres/snappymail-installer/refs/heads/main/install.sh && chmod +x install.sh && sudo ./install.sh
 ```
 
